@@ -1,1 +1,1 @@
-# Data-Science-Essentials-with-Python-Certification-Badge
+# Data Science Essentials with Python Certification Badge
