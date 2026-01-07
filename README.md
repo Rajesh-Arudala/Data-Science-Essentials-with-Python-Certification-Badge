@@ -1,4 +1,3 @@
-# Data Science Essentials with Python Certification & Badge
 ![Data Science Essentials with Python certificate Cisco](https://github.com/user-attachments/assets/fa650858-fd22-40a6-a6e2-4f3f588804a9)
 ![Data Science Essentials with Python Badges Cisco](https://github.com/user-attachments/assets/837802ed-34d2-4b24-983a-0d3b3e49292a)
 
